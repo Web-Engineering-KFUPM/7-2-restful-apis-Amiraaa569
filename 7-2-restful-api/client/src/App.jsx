@@ -139,7 +139,7 @@ LAB SETUP INSTRUCTIONS
  */
 
 /** =================================================================
- *  TODO 6 — DELETE /api/songs/:id file: server/index.js
+ *   TODO 6 — DELETE /api/songs/:id file: server/index.js
  *  =================================================================
  *  Goal:
  *    - Delete a song from DB by its ID.
